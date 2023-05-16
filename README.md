@@ -6,18 +6,67 @@
 - 💬 Ask me about Deloitte, Cyber & Strategic Risk, Business/Data Analytics
 - 📫 How to reach me: mail me at theyashitiwari@gmail.com
 - 😄 Pronouns: She/Her
+<p align="center">
+  <img src="https://yourimageurl.com/your-image.png" alt="Your Name">
+</p>
 
-<!--
-**theyashi/theyashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hello, I'm Your Name!</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <em>Passionate Developer | Creative Coder | Tech Enthusiast</em>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning DATA
-- 👯 I’m looking to collaborate on DATA ANALYTICS PROJECTS
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Deloitte, Cyber & Strategic Risk, Business/Data Analytics
-- 📫 How to reach me: mail me at theyashitiwari@gmail.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://yourwebsite.com">Website</a> •
+  <a href="mailto:youremail@example.com">Email</a> •
+  <a href="https://twitter.com/yourusername">Twitter</a>
+</p>
+
+---
+
+## 🚀 About Me
+
+I'm a creative developer who loves to explore the intersection of technology and art. I'm constantly seeking new ways to express my ideas through coding, whether it's building interactive web experiences, generative art, or experimenting with emerging technologies.
+
+- 🌱 I'm currently learning machine learning and data visualization.
+- 💡 I'm passionate about creating visually stunning and interactive user interfaces.
+- 💬 Let's talk about tech, creativity, or anything that sparks curiosity!
+
+---
+
+## 💻 Tech Stack
+
+- **Languages:** JavaScript, Python, HTML, CSS
+- **Front-end:** React, Vue.js, Three.js
+- **Back-end:** Node.js, Express
+- **Databases:** MongoDB, MySQL
+- **DevOps:** Docker, AWS, Netlify
+- **Tools:** Git, VS Code, Photoshop
+
+---
+
+## 🌟 Featured Projects
+
+- [Project A](https://github.com/yourusername/project-a): Brief description of the project and its highlights.
+- [Project B](https://github.com/yourusername/project-b): Brief description of the project and its highlights.
+
+---
+
+## 🎨 Creative Coding
+
+I love blending art with code to create unique and interactive experiences. Here are some of my creative coding experiments:
+
+- [CodePen](https://codepen.io/yourusername)
+- [OpenProcessing](https://openprocessing.org/user/yourusername)
+
+---
+
+## 📫 Let's Connect
+
+I'm always excited to collaborate or discuss creative ideas. Feel free to reach out to me via email or on social media. Let's create something amazing together!
+
+---
+
+<p align="center">
+  <img src="https://yourgifurl.com/your-gif.gif" alt="Animated illustration">
+</p>
