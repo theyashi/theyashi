@@ -7,7 +7,40 @@
 - 📫 How to reach me: mail me at theyashitiwari@gmail.com
 - 😄 Pronouns: She/Her
 
-<body style="background-color: #00FF00 ;">
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      background-color: #f2f2f2;
+    }
+
+    .box {
+      width: 300px;
+      height: 400px;
+      background-color: #f2f2f2;
+      border: 2px solid #ccc;
+      border-radius: 8px;
+      text-align: center;
+      padding: 20px;
+    }
+
+    .box img {
+      width: 200px;
+      height: 200px;
+      object-fit: cover;
+      border-radius: 50%;
+    }
+  </style>
+</head>
+<body>
+  <div class="box">
+    <img src="https://yourimageurl.com/your-image.png" alt="Your Image">
+    <p>A short note or description goes here.</p>
+  </div>
+</body>
+</html>
+
 
 <p align="center">
   <img src="https://yourimageurl.com/your-image.png" alt="YASHI TIWARI">
