@@ -72,3 +72,34 @@ I'm always excited to collaborate or discuss creative ideas. Feel free to reach 
 <p align="center">
   <img src="https://yourgifurl.com/your-gif.gif" alt="Animated illustration">
 </p>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .box {
+      width: 300px;
+      height: 400px;
+      background-color: #f2f2f2;
+      border: 2px solid #ccc;
+      border-radius: 8px;
+      text-align: center;
+      padding: 20px;
+    }
+
+    .box img {
+      width: 200px;
+      height: 200px;
+      object-fit: cover;
+      border-radius: 50%;
+    }
+  </style>
+</head>
+<body>
+  <div class="box">
+    <img src="https://yourimageurl.com/your-image.png" alt="Your Image">
+    <p>A short note or description goes here.</p>
+  </div>
+</body>
+</html>
