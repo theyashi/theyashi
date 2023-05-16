@@ -7,6 +7,7 @@
 - 📫 How to reach me: mail me at theyashitiwari@gmail.com
 - 😄 Pronouns: She/Her
 
+<body style="background-color: #f2f2f2;">
 
 <p align="center">
   <img src="https://yourimageurl.com/your-image.png" alt="YASHI TIWARI">
