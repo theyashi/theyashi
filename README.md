@@ -1,4 +1,4 @@
-### Hi there I am YASHI👋
+### Hi there, I am YASHI👋
 
 - 🌱 I’m currently learning DATA
 - 👯 I’m looking to collaborate on DATA ANALYTICS PROJECTS
@@ -74,7 +74,6 @@ I'm always excited to collaborate or discuss creative ideas. Feel free to reach 
   <img src="https://yourgifurl.com/your-gif.gif" alt="Animated illustration">
 </p>
 
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -99,9 +98,4 @@ I'm always excited to collaborate or discuss creative ideas. Feel free to reach 
 </head>
 <body>
   <div class="box">
-    <img src="https://yourimageurl.com/your-image.png" alt="Your Image">
-    <p>A short note or description goes here.</p>
-  </div>
-</body>
-</html>
-
+    <img src="https://yourimageurl
