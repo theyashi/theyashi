@@ -6,19 +6,21 @@
 - 💬 Ask me about Deloitte, Cyber & Strategic Risk, Business/Data Analytics
 - 📫 How to reach me: mail me at theyashitiwari@gmail.com
 - 😄 Pronouns: She/Her
+
+
 <p align="center">
-  <img src="https://yourimageurl.com/your-image.png" alt="Your Name">
+  <img src="https://yourimageurl.com/your-image.png" alt="YASHI TIWARI">
 </p>
 
-<h1 align="center">Hello, I'm Your Name!</h1>
+<h1 align="center">Hello, I'm YASHI TIWARI!</h1>
 
 <p align="center">
-  <em>Passionate Developer | Creative Coder | Tech Enthusiast</em>
+  <em>Business Analyst | Consultant | Tech Enthusiast</em>
 </p>
 
 <p align="center">
   <a href="https://yourwebsite.com">Website</a> •
-  <a href="mailto:youremail@example.com">Email</a> •
+  <a href="theyashitiwari@gmail.com">Email</a> •
   <a href="https://twitter.com/yourusername">Twitter</a>
 </p>
 
