@@ -67,6 +67,7 @@ I love blending art with code to create unique and interactive experiences. Here
 ## 📫 Let's Connect
 
 I'm always excited to collaborate or discuss creative ideas. Feel free to reach out to me via email or on social media. Let's create something amazing together!
+Email:theyashitiwari@gmail.com
 
 ---
 
