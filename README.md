@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://yourimageurl.com/your-image.png" alt="YASHI TIWARI">
+  <img src="[https://yourimageurl.com/your-image.png](https://drive.google.com/file/d/1J5zeowb9KNxKYl5_CuAtye4OriZROTYE/view?usp=sharing)" alt="YASHI TIWARI">
 </p>
 
 <h1 align="center">Hello, I'm YASHI TIWARI!</h1>
@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  #<a href="https://yourwebsite.com">Website</a> •
+  <a href="https://www.linkedin.com/in/yashi-tiwari-a991b6145/">LinkedIn</a> •
   <a href="theyashitiwari@gmail.com">Email</a> •
- # <a href="https://twitter.com/yourusername">Twitter</a>
+  <a href="https://public.tableau.com/app/profile/yashi.tiwari">Tableau Dashboards</a>
 </p>
 
 ---
