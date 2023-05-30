@@ -1,14 +1,3 @@
-### Hi there, I am YASHI👋
-
-- 🌱 I’m currently learning DATA
-- 👯 I’m looking to collaborate on DATA ANALYTICS PROJECTS
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Deloitte, Cyber & Strategic Risk, Business/Data Analytics
-- 📫 How to reach me: mail me at theyashitiwari@gmail.com
-- 😄 Pronouns: She/Her
-
-
-
 <p align="center">
   <img src="https://yourimageurl.com/your-image.png" alt="YASHI TIWARI">
 </p>
@@ -34,7 +23,12 @@ I'm a creative developer who loves to explore the intersection of technology and
 - 🌱 I'm currently learning machine learning and data visualization.
 - 💡 I'm passionate about creating visually stunning and interactive user interfaces.
 - 💬 Let's talk about tech, creativity, or anything that sparks curiosity!
-
+- 🌱 I’m currently learning DATA
+- 👯 I’m looking to collaborate on DATA ANALYTICS PROJECTS
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about Deloitte, Cyber & Strategic Risk, Business/Data Analytics
+- 📫 How to reach me: mail me at theyashitiwari@gmail.com
+- 😄 Pronouns: She/Her
 ---
 
 ## 💻 Tech Stack
