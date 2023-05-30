@@ -31,14 +31,13 @@ I'm a creative developer who loves to explore the intersection of technology and
 
 ## 💻 MY SKILL DUMP!!
 
-- **Languages:** R, Python, HTML, CSS
+- **Languages:** R, Python, HTML, CSS, Java
 - **Data Analysis:** Exploratory data analysis, Tableau, Machine Learning
-- **Front-end:** Angular, HTML, CSS, CSS Grid
-- **Back-end:** Node.js, 
-- **App-Development:** Android App Development, Andriod Studio
 - **Databases:** MongoDB, MySQL
-- **DevOps:** Google Cloud, AWS
+- **Cloud Services:** Google Cloud, AWS
 - **Tools:** Git, Photoshop, Eclipse
+- **Web Development Skills:** Angular, HTML, CSS, CSS Grid, Node.js
+- **App-Development:** Android App Development, Andriod Studio
 
 ---
 
