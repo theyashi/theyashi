@@ -45,11 +45,16 @@ I'm a creative developer who loves to explore the intersection of technology and
 
 - **Product Analytics Projects** [coming shortly]
 - **Customer Analytics Projects** [coming shortly]
-- **Data Visualizations** : [Tableau Dashboard](https://github.com/theyashi/Customer-Analysis-using-Tableau)
+- **Data Visualizations**
+- [Tableau Dashboard](https://github.com/theyashi/Customer-Analysis-using-Tableau)
 - **SQL**
-- **Machine Learning** :[Disease-Prediction-using-Machine-Learning](https://github.com/theyashi/Disease-Prediction-using-Machine-Learning)
-- **Web Scrapping and Database management** :[Global-Market-Trends-through-Web-Scraping-and-MongoDB ](https://github.com/theyashi/Global-Market-Trends-through-Web-Scraping-and-MongoDB)
-- **Linear Optimization** :[Supply-Chain-Optamization--Online-Retail](https://github.com/theyashi/Supply-Chain-Optimization---Online-Retail-)
+- **Machine Learning**
+- [Disease-Prediction-using-Machine-Learning](https://github.com/theyashi/Disease-Prediction-using-Machine-Learning)
+- **Web Scrapping and Database management**
+- [Global-Market-Trends-through-Web-Scraping-and-MongoDB ](https://github.com/theyashi/Global-Market-Trends-through-Web-Scraping-and-MongoDB)
+- **Linear Optimization**
+- [Supply-Chain-Optamization--Online-Retail](https://github.com/theyashi/Supply-Chain-Optimization---Online-Retail-)
+
 ---
 
 ## 🎨 Creative Coding
