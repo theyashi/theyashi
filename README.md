@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://yourimageurl.com/your-image.png](https://drive.google.com/file/d/1J5zeowb9KNxKYl5_CuAtye4OriZROTYE/view?usp=sharing)" alt="YASHI TIWARI">
+  <img src="https://drive.google.com/file/d/1J5zeowb9KNxKYl5_CuAtye4OriZROTYE/view?usp=sharing" alt="YASHI TIWARI">
 </p>
 
 <h1 align="center">Hello, I'm YASHI TIWARI!</h1>
