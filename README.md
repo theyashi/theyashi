@@ -43,28 +43,20 @@ I'm a creative developer who loves to explore the intersection of technology and
 
 ## 🌟 Featured Projects
 
-- [Project A](https://github.com/yourusername/project-a): Brief description of the project and its highlights.
-- [Project B](https://github.com/yourusername/project-b): Brief description of the project and its highlights.
-
+- **Product Analytics Projects** [coming shortly]
+- **Customer Analytics Projects** [coming shortly]
+- **Data Visualizations** : [Tableau Dashboard](https://github.com/theyashi/Customer-Analysis-using-Tableau)
+- **SQL**
+- **Machine Learning** :[Disease-Prediction-using-Machine-Learning](https://github.com/theyashi/Disease-Prediction-using-Machine-Learning)
+- **Web Scrapping and Database management** :[Global-Market-Trends-through-Web-Scraping-and-MongoDB ](https://github.com/theyashi/Global-Market-Trends-through-Web-Scraping-and-MongoDB)
+- **Linear Optimization** :[Supply-Chain-Optamization--Online-Retail](https://github.com/theyashi/Supply-Chain-Optimization---Online-Retail-)
 ---
 
 ## 🎨 Creative Coding
 
 I love blending art with code to create unique and interactive experiences. Here are some of my creative coding experiments:
 
-- **Product Analytics Projects**
-- [coming shortly]
-- **Customer Analytics Projects**
-- [coming shortly]
-- **Data Visualizations**
-- [Tableau Dashboard](https://github.com/theyashi/Customer-Analysis-using-Tableau)
-- **SQL**
-- **Machine Learning**
-- [Disease-Prediction-using-Machine-Learning](https://github.com/theyashi/Disease-Prediction-using-Machine-Learning)
-- **Web Scrapping and Database management**
-- [Global-Market-Trends-through-Web-Scraping-and-MongoDB ](https://github.com/theyashi/Global-Market-Trends-through-Web-Scraping-and-MongoDB)
-- **Linear Optimization**
-- [Supply-Chain-Optamization--Online-Retail](https://github.com/theyashi/Supply-Chain-Optimization---Online-Retail-)
+
 
 
 ---
