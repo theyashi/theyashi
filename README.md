@@ -20,12 +20,10 @@
 
 I'm a creative developer who loves to explore the intersection of technology and art. I'm constantly seeking new ways to express my ideas through coding, whether it's building interactive web experiences, generative art, or experimenting with emerging technologies.
 
-- 🌱 I'm currently learning machine learning and data visualization.
 - 💡 I'm passionate about creating visually stunning and interactive user interfaces.
 - 💬 Let's talk about tech, creativity, or anything that sparks curiosity!
-- 🌱 I’m currently learning DATA
+- 🌱 I’m currently enhancing my data analyst, machine learning, and data visualization skills.
 - 👯 I’m looking to collaborate on DATA ANALYTICS PROJECTS
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about Deloitte, Cyber & Strategic Risk, Business/Data Analytics
 - 📫 How to reach me: mail me at theyashitiwari@gmail.com
 - 😄 Pronouns: She/Her
