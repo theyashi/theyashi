@@ -29,14 +29,16 @@ I'm a creative developer who loves to explore the intersection of technology and
 - 😄 Pronouns: She/Her
 ---
 
-## 💻 Tech Stack
+## 💻 MY SKILL DUMP!!
 
-- **Languages:** JavaScript, Python, HTML, CSS
-- **Front-end:** React, Vue.js, Three.js
-- **Back-end:** Node.js, Express
+- **Languages:** R, Python, HTML, CSS
+- **Data Analysis:** Exploratory data analysis, Tableau, Machine Learning
+- **Front-end:** Angular, HTML, CSS, CSS Grid
+- **Back-end:** Node.js, 
+- **App-Development:** Android App Development, Andriod Studio
 - **Databases:** MongoDB, MySQL
-- **DevOps:** Docker, AWS, Netlify
-- **Tools:** Git, VS Code, Photoshop
+- **DevOps:** Google Cloud, AWS
+- **Tools:** Git, Photoshop, Eclipse
 
 ---
 
@@ -53,6 +55,13 @@ I love blending art with code to create unique and interactive experiences. Here
 
 - [CodePen](https://codepen.io/yourusername)
 - [OpenProcessing](https://openprocessing.org/user/yourusername)
+- **Product Analytics Projects**
+- **Customer Analytics Projects**
+- **Data Visualizations**
+- **SQL**
+- **Machine Learning**
+- **Web Scrapping and Database management**
+
 
 ---
 
