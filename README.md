@@ -25,7 +25,7 @@ Business Analytics experience with media company in strategizing donor retention
 
 - **My Analytics Skills:** Storytelling, Exploratory data analysis, Tableau, Machine Learning, MongoDB, MySQL, R, Python, 
 - **Cloud Services:** Google Cloud, AWS
-- **Web and App Development Skills:** C++, Java, Angular, HTML, CSS, CSS Grid, Node.js, Android App Development, Andriod Studio
+- **Web and App Development Skills:** C++, Java, Angular, HTML, CSS, Node.js, Android App Development, Andriod Studio
 - **Tools:**  Git, Photoshop, Eclipse
 ---
 
