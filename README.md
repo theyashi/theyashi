@@ -29,9 +29,7 @@ Business Analytics experience with media company in strategizing donor retention
 - **Databases:** MongoDB, MySQL
 - **Cloud Services:** Google Cloud, AWS
 - **Tools:** Git, Photoshop, Eclipse
-- **Web Development Skills:** Angular, HTML, CSS, CSS Grid, Node.js
-- **App-Development:** Android App Development, Andriod Studio
-
+- **Web and App Development Skills:** Angular, HTML, CSS, CSS Grid, Node.js, Android App Development, Andriod Studio
 ---
 
 ## 🌟 Featured Projects
