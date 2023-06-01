@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/file/d/1J5zeowb9KNxKYl5_CuAtye4OriZROTYE/view?usp=sharing" alt="YASHI TIWARI">
+  <img src="https://drive.google.com/file/d/1J5zeowb9KNxKYl5_CuAtye4OriZROTYE/view?usp=sharing" alt="">
 </p>
 
 <h1 align="center">Hello, I'm YASHI TIWARI!</h1>
@@ -15,18 +15,15 @@
 </p>
 
 ---
-
 ## 🚀 About Me
 
-I'm a creative developer who loves to explore the intersection of technology and art. I'm constantly seeking new ways to express my ideas through coding, whether it's building interactive web experiences, generative art, or experimenting with emerging technologies.
+Business Analytics experience with media company in strategizing donor retention and fundraising programs. With 2 years of experience in the Big 4 at Deloitte, improving client’s IT infrastructure by analyzing risks and recommending data-driven solutions. Client facing with company-wide projects and proficient in developing data-driven solutions, risk advisory, and cross-collaboration. 
 
 - 💡 I'm passionate about creating visually stunning and interactive user interfaces.
-- 💬 Let's talk about tech, creativity, or anything that sparks curiosity!
 - 🌱 I’m currently enhancing my data analyst, machine learning, and data visualization skills.
 - 👯 I’m looking to collaborate on DATA ANALYTICS PROJECTS
 - 💬 Ask me about Deloitte, Cyber & Strategic Risk, Business/Data Analytics
 - 📫 How to reach me: mail me at theyashitiwari@gmail.com
-- 😄 Pronouns: She/Her
 ---
 
 ## 💻 MY SKILL DUMP!!
