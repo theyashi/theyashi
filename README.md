@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://drive.google.com/file/d/1J5zeowb9KNxKYl5_CuAtye4OriZROTYE/view?usp=sharing" alt="">
-</p>
-
 <h1 align="center">Hello, I'm YASHI TIWARI!</h1>
 
 <p align="center">
