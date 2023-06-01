@@ -21,13 +21,11 @@ Business Analytics experience with media company in strategizing donor retention
 - 💬 Ask me about Deloitte, Cyber & Strategic Risk, Business/Data Analytics
 - 📫 How to reach me: mail me at theyashitiwari@gmail.com
 ---
-
 ## 💻 MY SKILL DUMP!!
 
-- **Languages:** R, Python, HTML, CSS, Java
-- **Data Analysis:** Exploratory data analysis, Tableau, Machine Learning
-- **Databases:** MongoDB, MySQL
+- **My Analytics Skills:** Storytelling, Exploratory data analysis, Tableau, Machine Learning, MongoDB, MySQL, R, Python, 
 - **Cloud Services:** Google Cloud, AWS
+- **Languages:**  HTML, CSS, Java
 - **Tools:** Git, Photoshop, Eclipse
 - **Web and App Development Skills:** Angular, HTML, CSS, CSS Grid, Node.js, Android App Development, Andriod Studio
 ---
