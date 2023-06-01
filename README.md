@@ -36,8 +36,8 @@ Business Analytics experience with media company in strategizing donor retention
 
 ## 🌟 Featured Projects
 
-- **Product Analytics Projects** [coming shortly]
-- **Customer Analytics Projects** [coming shortly]
+- **Product Analytics Projects** 
+- **Customer Analytics Projects** 
 - **Data Visualizations**
 - [Tableau Dashboard](https://github.com/theyashi/Customer-Analysis-using-Tableau)
 - **SQL**
