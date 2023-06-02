@@ -34,8 +34,8 @@ Business Analytics experience with media company in strategizing donor retention
 - **Product Analytics Projects** 
 - [Nike vs Adidas Product Branding Analysis](https://github.com/theyashi/Nike-vs-Adidas-Product-Analysis)
 - **Customer Analytics Projects** 
-- **Data Visualizations**
 - [Tableau Dashboard](https://github.com/theyashi/Customer-Analysis-using-Tableau)
+- **Data Visualizations**
 - [Tableau Dashboard Collections](https://github.com/theyashi/Tableau-Dashboard-Collection)
 - **SQL**
 - **Machine Learning**
