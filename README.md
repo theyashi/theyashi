@@ -36,6 +36,7 @@ Business Analytics experience with media company in strategizing donor retention
 - **Customer Analytics Projects** 
 - **Data Visualizations**
 - [Tableau Dashboard](https://github.com/theyashi/Customer-Analysis-using-Tableau)
+- [Tableau Dashboard Collections](https://github.com/theyashi/Tableau-Dashboard-Collection)
 - **SQL**
 - **Machine Learning**
 - [Disease-Prediction-using-Machine-Learning](https://github.com/theyashi/Disease-Prediction-using-Machine-Learning)
