@@ -19,8 +19,7 @@ Business Analytics experience with media company in strategizing donor retention
 - 🌱 I’m currently enhancing my data analyst, machine learning, and data visualization skills.
 - 👯 I’m looking to collaborate on DATA ANALYTICS PROJECTS
 - 💬 Ask me about Deloitte, Cyber & Strategic Risk, Business/Data Analytics
-- 📫 How to reach me: mail me at theyashitiwari@gmail.com
----
+--
 ## 💻 MY SKILL DUMP!!
 
 - **My Analytics Skills:** Storytelling, Exploratory data analysis, Tableau, Machine Learning, MongoDB, MySQL, R, Python, 
