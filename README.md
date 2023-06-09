@@ -43,7 +43,7 @@ Business Analytics experience with media company in strategizing donor retention
 - [Global-Market-Trends-through-Web-Scraping-and-MongoDB ](https://github.com/theyashi/Global-Market-Trends-through-Web-Scraping-and-MongoDB)
 - **Linear Optimization**
 - [Supply-Chain-Optamization--Online-Retail](https://github.com/theyashi/Supply-Chain-Optimization---Online-Retail-)
-- **Android App Development**
+- **Android App**
 - [A quick notification of danger](https://github.com/theyashi/quickstart-android)
 
 ---
