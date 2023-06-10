@@ -1,10 +1,18 @@
-<style>
-  body {
-    background-color: black;
-    color: white;
-  }
-</style>
+<p align="center">
+  <img src="https://yourimageurl.com/your-image.png" alt="Yashi Tiwari">
+</p>
 
+<h1 align="center">Hello, I'm YASHI TIWARI!</h1>
+
+<p align="center">
+  <em>Business Analyst | Consultant | Engineer</em>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yashi-tiwari-a991b6145/">LinkedIn</a> •
+  <a href="theyashitiwari@gmail.com">Email</a> •
+  <a href="https://public.tableau.com/app/profile/yashi.tiwari">Dashboarding</a>
+</p>
 
 ---
 ## 🚀 About Me
