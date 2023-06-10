@@ -14,16 +14,16 @@
 ## 🚀 About Me
 
 Business Analytics experience with media company in strategizing donor retention and fundraising programs. With 2 years of experience in the Big 4 at Deloitte, improving client’s IT infrastructure by analyzing risks and recommending data-driven solutions. Client facing with company-wide projects and proficient in developing data-driven solutions, risk advisory, and cross-collaboration. 
-- 💡 I'm passionate about creating visually stunning and interactive user interfaces.
-- 🌱 I’m currently enhancing my data analyst, machine learning, and data visualization skills.
-- 👯 I’m looking to collaborate on DATA ANALYTICS PROJECTS
-- 💬 Ask me about Deloitte, Cyber & Strategic Risk, Business/Data Analytics
+## - 💡 I'm passionate about creating visually stunning and interactive user interfaces.
+## - 🌱 I’m currently enhancing my data analyst, machine learning, and data visualization skills.
+## - 👯 I’m looking to collaborate on DATA ANALYTICS PROJECTS
+## - 💬 Ask me about Deloitte, Cyber & Strategic Risk, Business/Data Analytics
 --
 ## 💻 MY SKILL DUMP!!
-- **My Analytics Skills:** Storytelling, Exploratory data analysis, Tableau, Machine Learning, MongoDB, MySQL, R, Python, 
-- **Cloud Services:** Google Cloud, AWS
-- **Web and App Development Skills:** C++, Java, Angular, HTML, CSS, Node.js, Android App Development, Andriod Studio
-- **Tools:**  Git, Photoshop, Eclipse
+- **💡 My Analytics Skills:** Storytelling, Exploratory data analysis, Tableau, Machine Learning, MongoDB, MySQL, R, Python, 
+- **💬 Cloud Services:** Google Cloud, AWS
+- **🌱 Web and App Development Skills:** C++, Java, Angular, HTML, CSS, Node.js, Android App Development, Andriod Studio
+- **👯 Tools:**  Git, Photoshop, Eclipse
 ---
 ## 🌟 Featured Projects
 
