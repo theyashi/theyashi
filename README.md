@@ -23,7 +23,7 @@ Worked on a major 10 months business intelligence analytics project with a non-p
 ---
 
 ## 💻 MY SKILL DUMP!!
-- **💡 My Analytics Skills:** Storytelling, Exploratory data analysis, Tableau, Machine Learning, MongoDB, MySQL, R, Python, 
+- **💡 My Analytics Skills:** Storytelling, Exploratory data analysis, Tableau, Machine Learning, MongoDB, MySQL, R, Python, Spark
 - **💬 Cloud Services:** Google Cloud, AWS
 - **🌱 Web and App Development Skills:** C++, Java, Angular, HTML, CSS, Node.js, Android App Development, Andriod Studio
 - **👯 Tools:**  Git, Photoshop, Eclipse
