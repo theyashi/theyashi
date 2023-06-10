@@ -16,6 +16,7 @@
 Business Analytics experience with media company in strategizing donor retention and fundraising programs. With 2 years of experience in the Big 4 at Deloitte, improving client’s IT infrastructure by analyzing risks and recommending data-driven solutions. Client facing with company-wide projects and proficient in developing data-driven solutions, risk advisory, and cross-collaboration. 
 
 --
+
 ## 💻 MY SKILL DUMP!!
 - **💡 My Analytics Skills:** Storytelling, Exploratory data analysis, Tableau, Machine Learning, MongoDB, MySQL, R, Python, 
 - **💬 Cloud Services:** Google Cloud, AWS
