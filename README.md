@@ -14,10 +14,7 @@
 ## 🚀 About Me
 
 Business Analytics experience with media company in strategizing donor retention and fundraising programs. With 2 years of experience in the Big 4 at Deloitte, improving client’s IT infrastructure by analyzing risks and recommending data-driven solutions. Client facing with company-wide projects and proficient in developing data-driven solutions, risk advisory, and cross-collaboration. 
-## - 💡 I'm passionate about creating visually stunning and interactive user interfaces.
-## - 🌱 I’m currently enhancing my data analyst, machine learning, and data visualization skills.
-## - 👯 I’m looking to collaborate on DATA ANALYTICS PROJECTS
-## - 💬 Ask me about Deloitte, Cyber & Strategic Risk, Business/Data Analytics
+
 --
 ## 💻 MY SKILL DUMP!!
 - **💡 My Analytics Skills:** Storytelling, Exploratory data analysis, Tableau, Machine Learning, MongoDB, MySQL, R, Python, 
@@ -43,22 +40,16 @@ Business Analytics experience with media company in strategizing donor retention
 - **Android App**
 - [A quick notification of danger](https://github.com/theyashi/quickstart-android)
 
----
-
-## 🎨 Creative Coding
-
-I love blending art with code to create unique and interactive experiences. Here are some of my creative coding experiments:
-
-
-
 
 ---
-
 ## 📫 Let's Connect
 
 I'm always excited to collaborate or discuss creative ideas. Feel free to reach out to me via email or on social media. Let's create something amazing together!
 Email:theyashitiwari@gmail.com
-
+- 💡 I'm passionate about creating visually stunning and interactive user interfaces.
+- 🌱 I’m currently enhancing my data analyst, machine learning, and data visualization skills.
+- 👯 I’m looking to collaborate on DATA ANALYTICS PROJECTS
+- 💬 Ask me about Deloitte, Cyber & Strategic Risk, Business/Data Analytics
 ---
 
 
