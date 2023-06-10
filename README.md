@@ -33,6 +33,7 @@ Worked on a major 10 months business intelligence analytics project with a non-p
 - **Data Visualizations**
 - [Tableau Dashboard Collections](https://github.com/theyashi/Tableau-Dashboard-Collection)
 - **SQL**
+- [Adavance SQL Queries](https://github.com/theyashi/SQL-Queries-)
 - **Machine Learning**
 - [SERENIBOT : NLP based A Mental Health Assistant Chatbot](https://github.com/theyashi/SERENIBOT-NLP-based-A-Mental-Health-Assistant-Chatbot)
 - [Disease-Prediction-using-Machine-Learning](https://github.com/theyashi/Disease-Prediction-using-Machine-Learning)
