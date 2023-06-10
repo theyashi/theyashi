@@ -4,17 +4,7 @@
     color: white;
   }
 </style>
-<h1 align="center">Hello, I'm YASHI TIWARI!</h1>
 
-<p align="center">
-  <em>Business Analyst | Consultant | Tech Enthusiast</em>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yashi-tiwari-a991b6145/">LinkedIn</a> •
-  <a href="theyashitiwari@gmail.com">Email</a> •
-  <a href="https://public.tableau.com/app/profile/yashi.tiwari">Tableau Dashboards</a>
-</p>
 
 ---
 ## 🚀 About Me
