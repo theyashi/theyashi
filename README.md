@@ -15,12 +15,6 @@
 </p>
 
 ---
-## 🚀 About Me
-
-Business Analytics experience with media company in strategizing donor retention and fundraising programs. With 2 years of experience in the Big 4 at Deloitte, improving client’s IT infrastructure by analyzing risks and recommending data-driven solutions. Client facing with company-wide projects and proficient in developing data-driven solutions, risk advisory, and cross-collaboration. 
-Worked on a major 10 months business intelligence analytics project with a non-profit media company (KQED) to drive business insights using machine learning technique and data analysis. Presented tableau dashboard with findings and recommend data driven solutions. 
-
----
 
 ## 💻 MY SKILL DUMP!!
 - **💡 My Analytics Skills:** Storytelling, Exploratory data analysis, Tableau, Machine Learning, MongoDB, MySQL, R, Python, Spark
@@ -50,6 +44,13 @@ Worked on a major 10 months business intelligence analytics project with a non-p
 
 
 ---
+## 🚀 About Me
+
+Business Analytics experience with media company in strategizing donor retention and fundraising programs. With 2 years of experience in the Big 4 at Deloitte, improving client’s IT infrastructure by analyzing risks and recommending data-driven solutions. Client facing with company-wide projects and proficient in developing data-driven solutions, risk advisory, and cross-collaboration. 
+Worked on a major 10 months business intelligence analytics project with a non-profit media company (KQED) to drive business insights using machine learning technique and data analysis. Presented tableau dashboard with findings and recommend data driven solutions. 
+
+---
+
 ## 📫 Let's Connect
 
 I'm always excited to collaborate or discuss creative ideas. Feel free to reach out to me via email or on social media. Let's create something amazing together!
