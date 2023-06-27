@@ -4,9 +4,6 @@
 
 <h1 align="center">Hello, I'm YASHI TIWARI!</h1>
 
-<p align="center">
-  <em>Business Analyst | Consultant | Engineer</em>
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yashi-tiwari-a991b6145/">LinkedIn</a> •
