@@ -39,7 +39,7 @@
 - [Global-Market-Trends-through-Web-Scraping-and-MongoDB ](https://github.com/theyashi/Global-Market-Trends-through-Web-Scraping-and-MongoDB)
 - **Linear Optimization**
 - [Supply-Chain-Optamization--Online-Retail](https://github.com/theyashi/Supply-Chain-Optimization---Online-Retail-)
-- [Stock Option Pricing using Stochastic Calculus]()
+- [Stock Option Pricing using Stochastic Calculus](https://github.com/theyashi/Stock-option-pricing-using-Stochastic-Calculus)
 - **Android App**
 - [A quick notification of danger](https://github.com/theyashi/quickstart-android)
 
