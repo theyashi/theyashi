@@ -34,14 +34,4 @@ Worked on a major 10 months business intelligence analytics project with a non-p
 
 ---
 
-## 📫 Let's Connect
-
-I'm always excited to collaborate or discuss creative ideas. Feel free to reach out to me via email or on social media. Let's create something amazing together!
-Email:theyashitiwari@gmail.com
-- 💡 I'm passionate about creating visually stunning and interactive user interfaces.
-- 🌱 I’m currently enhancing my data analyst, machine learning, and data visualization skills.
-- 👯 I’m looking to collaborate on DATA ANALYTICS PROJECTS
-- 💬 Ask me about Deloitte, Cyber & Strategic Risk, Business/Data Analytics
----
-
-During the course covered many courses like foundation and advance statistics, Machine Learning, Big Data, Analytics Decision Making, Data Management (with SQL), Business Analytics topics (with focus on casual inference and A/B testing)
+Course covered many courses like foundation and advance statistics, Machine Learning, Big Data, Analytics Decision Making, Data Management (with SQL), Business Analytics topics (with focus on casual inference and A/B testing)
