@@ -8,7 +8,7 @@
 
 ## 💻 MY SKILL DUMP!!
 - **💡 Technical Skills:** SQL, Python, R, Tableau, Power BI, Excel, PySpark, MongoDB, TensorFlow, VBA, Statistics 
-- **💡 Industrial Skills:** Storytelling, Exploratory data analysis, Machine Learning, Big Data, Causual Inference, A/B Testing, Data Visualization, Data Modeling & Processing 
+- **💡 Industrial Skills:** Storytelling, Exploratory data analysis, Machine Learning, Big Data, Causual Inference, A/B Testing, Data Visualization
 - **💬 Cloud Services:** Google Cloud, AWS
 - **🌱 Web and App Development Skills:** C++, Java, Angular, HTML, CSS, Node.js, Android App Development, Andriod Studio
 ---
