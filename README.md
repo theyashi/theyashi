@@ -29,8 +29,8 @@
 ---
 ## 🌟 Private Projects
 
-- **KQED Project**  [Forecasting the Future: KQED’s Broadcast & Membership Evolution]
-- **Personal Project**  [Projects with some personal datasets]
+- **KQED Project**  Forecasting the Future: KQED’s Broadcast & Membership Evolution
+- **Personal Project**  Projects with some personal datasets
 ---
 ## 🚀 About Me
 
