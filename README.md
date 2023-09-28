@@ -16,6 +16,7 @@
 
 - **Product Analytics Projects**  [Nike vs Adidas Product Branding Analysis](https://github.com/theyashi/Nike-vs-Adidas-Product-Analysis)
 - **Customer Analytics Projects** [Tableau Dashboard](https://github.com/theyashi/Customer-Analysis-using-Tableau)
+- **A/B Testing - Marketing** [Marketing A/B Testing](https://github.com/theyashi/A-B-Testing)
 - **Data Visualizations** [Tableau Dashboard Collections](https://github.com/theyashi/Tableau-Dashboard-Collection)
 - **SQL** [Adavance SQL Queries](https://github.com/theyashi/SQL-Queries-)
 - **Machine Learning** [SERENIBOT : NLP based A Mental Health Assistant Chatbot](https://github.com/theyashi/SERENIBOT-NLP-based-A-Mental-Health-Assistant-Chatbot)
@@ -24,7 +25,6 @@
 - **Linear Optimization** [Supply-Chain-Optamization--Online-Retail](https://github.com/theyashi/Supply-Chain-Optimization---Online-Retail-)
 - [Stock Option Pricing using Stochastic Calculus](https://github.com/theyashi/Stock-option-pricing-using-Stochastic-Calculus)
 - **Android App** [A quick notification of danger](https://github.com/theyashi/quickstart-android)
-
 
 ---
 ## 🌟 Private Projects
