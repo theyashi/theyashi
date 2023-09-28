@@ -30,6 +30,8 @@
 ## 🌟 Private Projects
 
 - **KQED Project**  Forecasting the Future: KQED’s Broadcast & Membership Evolution
+-                   Involved customer segmentations, customer retention, and revenue associated.
+-                   Recommendations for short and long term strategies for different customer segments.
 - **Personal Project**  Projects with some personal datasets
 ---
 ## 🚀 About Me
