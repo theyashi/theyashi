@@ -16,7 +16,7 @@
 
 - **Product Analytics Projects**  [Nike vs Adidas Product Branding Analysis](https://github.com/theyashi/Nike-vs-Adidas-Product-Analysis)
 - **Customer Analytics Projects** [Tableau Dashboard](https://github.com/theyashi/Customer-Analysis-using-Tableau)
-- **A/B Testing - Marketing** [Marketing A/B Testing](https://github.com/theyashi/A-B-Testing)
+- **A/B Testing - Marketing** [Partner Marketing A/B Testing HPE case](https://github.com/theyashi/A-B-Testing)
 - **Data Visualizations** [Tableau Dashboard Collections](https://github.com/theyashi/Tableau-Dashboard-Collection)
 - **SQL** [Adavance SQL Queries](https://github.com/theyashi/SQL-Queries-)
 - **Machine Learning** [SERENIBOT : NLP based A Mental Health Assistant Chatbot](https://github.com/theyashi/SERENIBOT-NLP-based-A-Mental-Health-Assistant-Chatbot)
