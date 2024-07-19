@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/yashi-tiwari-a991b6145/">LinkedIn</a> •
   <a href="theyashitiwari@gmail.com">Email</a> •
-  <a href="https://public.tableau.com/app/profile/yashi.tiwari">Dashboarding</a>
+  <a href="https://public.tableau.com/app/profile/yashi.tiwari">Data Visualizations - Dashboards</a>
 </p>
 
 ---
